@@ -64,3 +64,16 @@ div.highlight:hover .copy-code,
 pre:hover .copy-code {
     display: block;
 }
+
+/* My custom css */
+a, a em {
+    color: #A7C7E7;
+}
+
+.logo a {
+    color: inherit;
+}
+
+em, strong em {
+    color: #E8A0A0;
+}
